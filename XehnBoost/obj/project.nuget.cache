@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVY4MKeo0BxfAch+Si296MFtwz4jafK0QHfD94FOjyC0JkRbQGJ0wTEUcuE+1dIsqwWqippYzQimFRSGhoSmrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucid\\Downloads\\XehnBoost\\XehnBoost\\XehnBoost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\wpf-ui\\1.2.7\\wpf-ui.1.2.7.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\Lucid\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.12\\microsoft.netcore.app.crossgen2.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
